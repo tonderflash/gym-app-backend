@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xa9gyzDBAC2PxGEDIwuQ9Nr4j/FCWS3upjKsnx/tYFA=",
+  "Source": "MyGymApp.Api",
+  "BasePath": "_content/MyGymApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

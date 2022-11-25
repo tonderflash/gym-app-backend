@@ -1,0 +1,12 @@
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/bin/Debug/net7.0/MyGymApp.Domain.deps.json
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/bin/Debug/net7.0/MyGymApp.Domain.dll
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/bin/Debug/net7.0/MyGymApp.Domain.pdb
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/MyGymApp.Domain.csproj.AssemblyReference.cache
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/MyGymApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/MyGymApp.Domain.AssemblyInfoInputs.cache
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/MyGymApp.Domain.AssemblyInfo.cs
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/MyGymApp.Domain.csproj.CoreCompileInputs.cache
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/MyGymApp.Domain.dll
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/refint/MyGymApp.Domain.dll
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/MyGymApp.Domain.pdb
+/Users/gabrielgarcia/Desktop/github projects/MyGymApp/MyGymApp.Domain/obj/Debug/net7.0/ref/MyGymApp.Domain.dll
